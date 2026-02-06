@@ -1,6 +1,6 @@
-# AI & Data Science Internship Project
+# Python Development Internship Project
 
-This project was developed as part of an **AI & Data Science Internship**.  
+This project was developed as part of an **Python Development**.  
 It covers data analysis, machine learning, web development, voice processing, and generative AI concepts using Python.
 
 ## Project Structure
